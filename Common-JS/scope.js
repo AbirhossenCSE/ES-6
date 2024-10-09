@@ -8,7 +8,7 @@ const result = add(4, 5);
 console.log(result);
 
 
-Closure
+// Closure
 
 function kitchen(){
     let roast = 0;
