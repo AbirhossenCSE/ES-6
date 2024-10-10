@@ -1,8 +1,8 @@
-const user = {id: 3, name: 'Abir', job: 'Student'};
+// const user = {id: 3, name: 'Abir', job: 'Student'};
 
-const stringified = JSON.stringify(user);
-console.log(stringified);
-console.log(user);
+// const stringified = JSON.stringify(user);
+// console.log(stringified);
+// console.log(user);
 
 
 const shop = {
