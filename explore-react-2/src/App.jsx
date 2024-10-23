@@ -2,6 +2,7 @@
 import './App.css'
 import Counter from './Counter';
 import Team from './Team';
+import User from './user';
 
 function App() {
   function handleClick(){
@@ -18,6 +19,7 @@ function App() {
   return (
     <>
       <h1>React Core Concepts</h1>
+      <User></User>
       <Team></Team>
       <Counter></Counter>
 
