@@ -9,3 +9,7 @@
 .non-visited{
     background-color: bisque;
 }
+.flag-container img{
+    width: 80px;
+    gap: 10px;
+}
